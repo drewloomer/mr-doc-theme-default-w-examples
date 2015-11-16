@@ -1,5 +1,5 @@
 {
-  "name": "mr-doc-theme-default",
+  "name": "mr-doc-theme-default-w-examples",
   "version": "1.3.1",
   "description": "The default theme for Mr. Doc",
   "main": "gulpfile.js",
