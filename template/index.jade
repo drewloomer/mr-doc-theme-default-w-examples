@@ -106,7 +106,7 @@ html
                         td!= tag.description
 
             .description !{symbol.description.full}
-            if symbol.code && !symbol
+            if symbol.code
               pre
                 code.language-javascript
                   = symbol.code
