@@ -1,6 +1,6 @@
 {
   "name": "mr-doc-theme-default-w-examples",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "The default theme for Mr. Doc",
   "main": "gulpfile.js",
   "directories": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mr-doc/mr-doc-theme-default.git"
+    "url": "git+https://github.com/drewloomer/mr-doc-theme-default-w-examples.git"
   },
   "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com)",
   "contributors": [
@@ -29,9 +29,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mr-doc/mr-doc-theme-default/issues"
+    "url": "https://github.com/drewloomer/mr-doc-theme-default-w-examples/issues"
   },
-  "homepage": "https://github.com/mr-doc/mr-doc-theme-default#readme",
+  "homepage": "https://github.com/drewloomer/mr-doc-theme-default-w-examples#readme",
   "keywords": [
     "mr-doc-theme",
     "mr-doc",
